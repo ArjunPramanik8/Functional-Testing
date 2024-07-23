@@ -1,5 +1,5 @@
 # Functional-Testing Project
-# SoftwareTestingProjects-Functional-
+# SoftwareTestingProjects-Functional- OpenSource E-commerce Project
 
 
 Project #1 -  **Testcase and Test Plan for OpenCart opensource project for Login and Registration page**.
