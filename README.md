@@ -1,4 +1,4 @@
-# Functional-Testing
+# Functional-Testing Project
 # SoftwareTestingProjects-Functional-
 
 
